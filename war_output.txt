@@ -1,0 +1,599 @@
+Player 1's card is Ace of Clubs
+Player 2's card is 2 of Spades
+Player 1 wins the round
+
+Player 1's card is 8 of Hearts
+Player 2's card is 9 of Hearts
+Player 2 wins the round
+
+Player 1's card is Jack of Diamonds
+Player 2's card is 2 of Clubs
+Player 1 wins the round
+
+Player 1's card is 5 of Clubs
+Player 2's card is King of Clubs
+Player 2 wins the round
+
+Player 1's card is 9 of Spades
+Player 2's card is King of Spades
+Player 2 wins the round
+
+Player 1's card is 7 of Hearts
+Player 2's card is 10 of Clubs
+Player 2 wins the round
+
+Player 1's card is Jack of Clubs
+Player 2's card is 7 of Spades
+Player 1 wins the round
+
+Player 1's card is 3 of Clubs
+Player 2's card is Ace of Spades
+Player 2 wins the round
+
+Player 1's card is 4 of Hearts
+Player 2's card is 7 of Clubs
+Player 2 wins the round
+
+Player 1's card is 6 of Spades
+Player 2's card is 8 of Spades
+Player 2 wins the round
+
+Player 1's card is 5 of Spades
+Player 2's card is Queen of Clubs
+Player 2 wins the round
+
+Player 1's card is 3 of Spades
+Player 2's card is 2 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 3 of Diamonds
+Player 2's card is Queen of Diamonds
+Player 2 wins the round
+
+Player 1's card is Jack of Spades
+Player 2's card is 6 of Clubs
+Player 1 wins the round
+
+Player 1's card is 7 of Diamonds
+Player 2's card is 8 of Diamonds
+Player 2 wins the round
+
+Player 1's card is Jack of Hearts
+Player 2's card is 10 of Spades
+Player 1 wins the round
+
+Player 1's card is 4 of Spades
+Player 2's card is 2 of Hearts
+Player 1 wins the round
+
+Player 1's card is 8 of Clubs
+Player 2's card is King of Diamonds
+Player 2 wins the round
+
+Player 1's card is 6 of Diamonds
+Player 2's card is 9 of Clubs
+Player 2 wins the round
+
+Player 1's card is 5 of Hearts
+Player 2's card is Queen of Spades
+Player 2 wins the round
+
+Player 1's card is 4 of Diamonds
+Player 2's card is 3 of Hearts
+Player 1 wins the round
+
+Player 1's card is Ace of Hearts
+Player 2's card is 10 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 5 of Diamonds
+Player 2's card is Ace of Diamonds
+Player 2 wins the round
+
+Player 1's card is Queen of Hearts
+Player 2's card is 6 of Hearts
+Player 1 wins the round
+
+Player 1's card is King of Hearts
+Player 2's card is 4 of Clubs
+Player 1 wins the round
+
+Player 1's card is Ace of Clubs
+Player 2's card is 10 of Hearts
+Player 1 wins the round
+
+Player 1's card is 2 of Spades
+Player 2's card is 8 of Hearts
+Player 2 wins the round
+
+Player 1's card is Jack of Diamonds
+Player 2's card is 9 of Hearts
+Player 1 wins the round
+
+Player 1's card is 2 of Clubs
+Player 2's card is 5 of Clubs
+Player 2 wins the round
+
+Player 1's card is Jack of Clubs
+Player 2's card is King of Clubs
+Player 2 wins the round
+
+Player 1's card is 7 of Spades
+Player 2's card is 9 of Spades
+Player 2 wins the round
+
+Player 1's card is 3 of Spades
+Player 2's card is King of Spades
+Player 2 wins the round
+
+Player 1's card is 2 of Diamonds
+Player 2's card is 7 of Hearts
+Player 2 wins the round
+
+Player 1's card is Jack of Spades
+Player 2's card is 10 of Clubs
+Player 1 wins the round
+
+Player 1's card is 6 of Clubs
+Player 2's card is 3 of Clubs
+Player 1 wins the round
+
+Player 1's card is Jack of Hearts
+Player 2's card is Ace of Spades
+Player 2 wins the round
+
+Player 1's card is 10 of Spades
+Player 2's card is 4 of Hearts
+Player 1 wins the round
+
+Player 1's card is 4 of Spades
+Player 2's card is 7 of Clubs
+Player 2 wins the round
+
+Player 1's card is 2 of Hearts
+Player 2's card is 6 of Spades
+Player 2 wins the round
+
+Player 1's card is 4 of Diamonds
+Player 2's card is 8 of Spades
+Player 2 wins the round
+
+Player 1's card is 3 of Hearts
+Player 2's card is 5 of Spades
+Player 2 wins the round
+
+Player 1's card is Ace of Hearts
+Player 2's card is Queen of Clubs
+Player 1 wins the round
+
+Player 1's card is 10 of Diamonds
+Player 2's card is 3 of Diamonds
+Player 1 wins the round
+
+Player 1's card is Queen of Hearts
+Player 2's card is Queen of Diamonds
+The cards are equal
+---------------------
+~Commence War~
+War card for player1 is 6 of Hearts
+War card for player2 is 7 of Diamonds
+
+War card for player1 is King of Hearts
+War card for player2 is 8 of Diamonds
+
+Player 1 wins the war round
+---------------------
+Player 1's card is 4 of Clubs
+Player 2's card is 8 of Clubs
+Player 2 wins the round
+
+Player 1's card is Ace of Clubs
+Player 2's card is King of Diamonds
+Player 1 wins the round
+
+Player 1's card is 10 of Hearts
+Player 2's card is 6 of Diamonds
+Player 1 wins the round
+
+Player 1's card is Jack of Diamonds
+Player 2's card is 9 of Clubs
+Player 1 wins the round
+
+Player 1's card is 9 of Hearts
+Player 2's card is 5 of Hearts
+Player 1 wins the round
+
+Player 1's card is Jack of Spades
+Player 2's card is Queen of Spades
+Player 2 wins the round
+
+Player 1's card is 10 of Clubs
+Player 2's card is 5 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 6 of Clubs
+Player 2's card is Ace of Diamonds
+Player 2 wins the round
+
+Player 1's card is 3 of Clubs
+Player 2's card is 2 of Spades
+Player 1 wins the round
+
+Player 1's card is 10 of Spades
+Player 2's card is 8 of Hearts
+Player 1 wins the round
+
+Player 1's card is 4 of Hearts
+Player 2's card is 2 of Clubs
+Player 1 wins the round
+
+Player 1's card is Ace of Hearts
+Player 2's card is 5 of Clubs
+Player 1 wins the round
+
+Player 1's card is Queen of Clubs
+Player 2's card is Jack of Clubs
+Player 1 wins the round
+
+Player 1's card is 10 of Diamonds
+Player 2's card is King of Clubs
+Player 2 wins the round
+
+Player 1's card is 3 of Diamonds
+Player 2's card is 7 of Spades
+Player 2 wins the round
+
+Player 1's card is Queen of Hearts
+Player 2's card is 9 of Spades
+Player 1 wins the round
+
+Player 1's card is 6 of Hearts
+Player 2's card is 3 of Spades
+Player 1 wins the round
+
+Player 1's card is King of Hearts
+Player 2's card is King of Spades
+The cards are equal
+---------------------
+~Commence War~
+War card for player1 is Queen of Diamonds
+War card for player2 is 2 of Diamonds
+
+War card for player1 is 7 of Diamonds
+War card for player2 is 7 of Hearts
+
+The cards are equal. War will now commence again.
+---------------------
+~Commence War~
+War card for player1 is 8 of Diamonds
+War card for player2 is Jack of Hearts
+
+War card for player1 is Ace of Clubs
+War card for player2 is Ace of Spades
+
+The cards are equal. War will now commence again.
+---------------------
+~Commence War~
+War card for player1 is King of Diamonds
+War card for player2 is 4 of Spades
+
+War card for player1 is 10 of Hearts
+War card for player2 is 7 of Clubs
+
+Player 1 wins the war round
+---------------------
+Player 1's card is 6 of Diamonds
+Player 2's card is 2 of Hearts
+Player 1 wins the round
+
+Player 1's card is Jack of Diamonds
+Player 2's card is 6 of Spades
+Player 1 wins the round
+
+Player 1's card is 9 of Clubs
+Player 2's card is 4 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 9 of Hearts
+Player 2's card is 8 of Spades
+Player 1 wins the round
+
+Player 1's card is 5 of Hearts
+Player 2's card is 3 of Hearts
+Player 1 wins the round
+
+Player 1's card is 10 of Clubs
+Player 2's card is 5 of Spades
+Player 1 wins the round
+
+Player 1's card is 5 of Diamonds
+Player 2's card is 4 of Clubs
+Player 1 wins the round
+
+Player 1's card is 3 of Clubs
+Player 2's card is 8 of Clubs
+Player 2 wins the round
+
+Player 1's card is 2 of Spades
+Player 2's card is Jack of Spades
+Player 2 wins the round
+
+Player 1's card is 10 of Spades
+Player 2's card is Queen of Spades
+Player 2 wins the round
+
+Player 1's card is 8 of Hearts
+Player 2's card is 6 of Clubs
+Player 1 wins the round
+
+Player 1's card is 4 of Hearts
+Player 2's card is Ace of Diamonds
+Player 2 wins the round
+
+Player 1's card is 2 of Clubs
+Player 2's card is 10 of Diamonds
+Player 2 wins the round
+
+Player 1's card is Ace of Hearts
+Player 2's card is King of Clubs
+Player 1 wins the round
+
+Player 1's card is 5 of Clubs
+Player 2's card is 3 of Diamonds
+Player 1 wins the round
+
+Player 1's card is Queen of Clubs
+Player 2's card is 7 of Spades
+Player 1 wins the round
+
+Player 1's card is Jack of Clubs
+Player 2's card is 3 of Clubs
+Player 1 wins the round
+
+Player 1's card is Queen of Hearts
+Player 2's card is 8 of Clubs
+Player 1 wins the round
+
+Player 1's card is 9 of Spades
+Player 2's card is 2 of Spades
+Player 1 wins the round
+
+Player 1's card is 6 of Hearts
+Player 2's card is Jack of Spades
+Player 2 wins the round
+
+Player 1's card is 3 of Spades
+Player 2's card is 10 of Spades
+Player 2 wins the round
+
+Player 1's card is King of Hearts
+Player 2's card is Queen of Spades
+Player 1 wins the round
+
+Player 1's card is Queen of Diamonds
+Player 2's card is 4 of Hearts
+Player 1 wins the round
+
+Player 1's card is 7 of Diamonds
+Player 2's card is Ace of Diamonds
+Player 2 wins the round
+
+Player 1's card is 8 of Diamonds
+Player 2's card is 2 of Clubs
+Player 1 wins the round
+
+Player 1's card is Ace of Clubs
+Player 2's card is 10 of Diamonds
+Player 1 wins the round
+
+Player 1's card is King of Diamonds
+Player 2's card is 6 of Hearts
+Player 1 wins the round
+
+Player 1's card is 10 of Hearts
+Player 2's card is Jack of Spades
+Player 2 wins the round
+
+Player 1's card is King of Spades
+Player 2's card is 3 of Spades
+Player 1 wins the round
+
+Player 1's card is 2 of Diamonds
+Player 2's card is 10 of Spades
+Player 2 wins the round
+
+Player 1's card is 7 of Hearts
+Player 2's card is 7 of Diamonds
+The cards are equal
+---------------------
+~Commence War~
+War card for player1 is Jack of Hearts
+War card for player2 is Ace of Diamonds
+
+War card for player1 is Ace of Spades
+War card for player2 is 10 of Hearts
+
+Player 1 wins the war round
+---------------------
+Player 1's card is 4 of Spades
+Player 2's card is Jack of Spades
+Player 2 wins the round
+
+Player 1's card is 7 of Clubs
+Player 2's card is 2 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 6 of Diamonds
+Player 2's card is 10 of Spades
+Player 2 wins the round
+
+Player 1's card is 2 of Hearts
+Player 2's card is 4 of Spades
+Player 2 wins the round
+
+Player 1's card is Jack of Diamonds
+Player 2's card is Jack of Spades
+The cards are equal
+---------------------
+~Commence War~
+War card for player1 is 6 of Spades
+War card for player2 is 6 of Diamonds
+
+War card for player1 is 9 of Clubs
+War card for player2 is 10 of Spades
+
+Player 2 wins the war round
+---------------------
+Player 1's card is 4 of Diamonds
+Player 2's card is 2 of Hearts
+Player 1 wins the round
+
+Player 1's card is 9 of Hearts
+Player 2's card is 4 of Spades
+Player 1 wins the round
+
+Player 1's card is 8 of Spades
+Player 2's card is Jack of Diamonds
+Player 2 wins the round
+
+Player 1's card is 5 of Hearts
+Player 2's card is 6 of Spades
+Player 2 wins the round
+
+Player 1's card is 3 of Hearts
+Player 2's card is 9 of Clubs
+Player 2 wins the round
+
+Player 1's card is 10 of Clubs
+Player 2's card is Jack of Spades
+Player 2 wins the round
+
+Player 1's card is 5 of Spades
+Player 2's card is 6 of Diamonds
+Player 2 wins the round
+
+Player 1's card is 5 of Diamonds
+Player 2's card is 10 of Spades
+Player 2 wins the round
+
+Player 1's card is 4 of Clubs
+Player 2's card is 8 of Spades
+Player 2 wins the round
+
+Player 1's card is 8 of Hearts
+Player 2's card is Jack of Diamonds
+Player 2 wins the round
+
+Player 1's card is 6 of Clubs
+Player 2's card is 5 of Hearts
+Player 1 wins the round
+
+Player 1's card is Ace of Hearts
+Player 2's card is 6 of Spades
+Player 1 wins the round
+
+Player 1's card is King of Clubs
+Player 2's card is 3 of Hearts
+Player 1 wins the round
+
+Player 1's card is 5 of Clubs
+Player 2's card is 9 of Clubs
+Player 2 wins the round
+
+Player 1's card is 3 of Diamonds
+Player 2's card is 10 of Clubs
+Player 2 wins the round
+
+Player 1's card is Queen of Clubs
+Player 2's card is Jack of Spades
+Player 1 wins the round
+
+Player 1's card is 7 of Spades
+Player 2's card is 5 of Spades
+Player 1 wins the round
+
+Player 1's card is Jack of Clubs
+Player 2's card is 6 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 3 of Clubs
+Player 2's card is 5 of Diamonds
+Player 2 wins the round
+
+Player 1's card is Queen of Hearts
+Player 2's card is 10 of Spades
+Player 1 wins the round
+
+Player 1's card is 8 of Clubs
+Player 2's card is 4 of Clubs
+Player 1 wins the round
+
+Player 1's card is 9 of Spades
+Player 2's card is 8 of Spades
+Player 1 wins the round
+
+Player 1's card is 2 of Spades
+Player 2's card is 8 of Hearts
+Player 2 wins the round
+
+Player 1's card is King of Hearts
+Player 2's card is Jack of Diamonds
+Player 1 wins the round
+
+Player 1's card is Queen of Spades
+Player 2's card is 5 of Clubs
+Player 1 wins the round
+
+Player 1's card is Queen of Diamonds
+Player 2's card is 9 of Clubs
+Player 1 wins the round
+
+Player 1's card is 4 of Hearts
+Player 2's card is 3 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 8 of Diamonds
+Player 2's card is 10 of Clubs
+Player 2 wins the round
+
+Player 1's card is 2 of Clubs
+Player 2's card is 3 of Clubs
+Player 2 wins the round
+
+Player 1's card is Ace of Clubs
+Player 2's card is 5 of Diamonds
+Player 1 wins the round
+
+Player 1's card is 10 of Diamonds
+Player 2's card is 2 of Spades
+Player 1 wins the round
+
+Player 1's card is King of Diamonds
+Player 2's card is 8 of Hearts
+Player 1 wins the round
+
+Player 1's card is 6 of Hearts
+Player 2's card is 8 of Diamonds
+Player 2 wins the round
+
+Player 1's card is King of Spades
+Player 2's card is 10 of Clubs
+Player 1 wins the round
+
+Player 1's card is 3 of Spades
+Player 2's card is 2 of Clubs
+Player 1 wins the round
+
+Player 1's card is 7 of Hearts
+Player 2's card is 3 of Clubs
+Player 1 wins the round
+
+Player 1's card is Jack of Hearts
+Player 2's card is 6 of Hearts
+Player 1 wins the round
+
+Player 1's card is Ace of Spades
+Player 2's card is 8 of Diamonds
+Player 1 wins the round
+
+Game over, Player 2 is out of cards. Player 1 is the winner of the game!
